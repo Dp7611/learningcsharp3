@@ -1,0 +1,15 @@
+C:\Users\DARREN\Documents\Computing\learningcsharp3\bin\Debug\net7.0\learningcsharp3.exe
+C:\Users\DARREN\Documents\Computing\learningcsharp3\bin\Debug\net7.0\learningcsharp3.deps.json
+C:\Users\DARREN\Documents\Computing\learningcsharp3\bin\Debug\net7.0\learningcsharp3.runtimeconfig.json
+C:\Users\DARREN\Documents\Computing\learningcsharp3\bin\Debug\net7.0\learningcsharp3.dll
+C:\Users\DARREN\Documents\Computing\learningcsharp3\bin\Debug\net7.0\learningcsharp3.pdb
+C:\Users\DARREN\Documents\Computing\learningcsharp3\obj\Debug\net7.0\learningcsharp3.csproj.AssemblyReference.cache
+C:\Users\DARREN\Documents\Computing\learningcsharp3\obj\Debug\net7.0\learningcsharp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DARREN\Documents\Computing\learningcsharp3\obj\Debug\net7.0\learningcsharp3.AssemblyInfoInputs.cache
+C:\Users\DARREN\Documents\Computing\learningcsharp3\obj\Debug\net7.0\learningcsharp3.AssemblyInfo.cs
+C:\Users\DARREN\Documents\Computing\learningcsharp3\obj\Debug\net7.0\learningcsharp3.csproj.CoreCompileInputs.cache
+C:\Users\DARREN\Documents\Computing\learningcsharp3\obj\Debug\net7.0\learningcsharp3.dll
+C:\Users\DARREN\Documents\Computing\learningcsharp3\obj\Debug\net7.0\refint\learningcsharp3.dll
+C:\Users\DARREN\Documents\Computing\learningcsharp3\obj\Debug\net7.0\learningcsharp3.pdb
+C:\Users\DARREN\Documents\Computing\learningcsharp3\obj\Debug\net7.0\learningcsharp3.genruntimeconfig.cache
+C:\Users\DARREN\Documents\Computing\learningcsharp3\obj\Debug\net7.0\ref\learningcsharp3.dll
